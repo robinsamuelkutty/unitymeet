@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import type { Metadata } from "next";
+import 'tailwindcss/tailwind.css'
 
 import { Inter } from "next/font/google";
 
